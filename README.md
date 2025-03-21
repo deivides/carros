@@ -8,13 +8,15 @@ O sistema foi desenvolvido com **HTML, CSS e JavaScript** para a interface do us
 
 ## 📌 Funcionalidades
 ✅ Cadastro, edição e remoção de carros 
+
 ✅ Filtros e pesquisa de veículos
+
 ✅ Interface responsiva para melhor experiência do usuário
 
 ## 🛠 Tecnologias Utilizadas
 - **Python 3.x**
 - **Django**
-- **SQLite / PostgreSQL
+- **SQLite / PostgreSQL**
 - **OpenAI API** (para funcionalidades de IA)
 - **HTML, CSS e JavaScript** (para interface do usuário)
 - **AWS EC2** (para deploy e hospedagem)
